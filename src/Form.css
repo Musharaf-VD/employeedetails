@@ -1,0 +1,42 @@
+#btn1,#btn2{
+    margin-left: 20px;
+    transition: 0.5s;
+    border: none;
+}
+
+
+#btn1:hover{
+    background-color: lightgreen;
+}
+
+#btn2:hover{
+    background-color: red;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+tbody{
+    font-weight: 500;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#errors{
+    color: black;
+}
+
+.employee-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.card-body{
+    background-color: bisque;
+}
+
+.table{
+    background-color: bisque;
+    border-color: black;
+}
