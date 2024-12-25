@@ -1,4 +1,4 @@
-import { useState,useEffect } from 'react';
+import { useEffect } from 'react';
 import './Form.css'
 import FormDetail from './FormDetail';
 import Validate from './Validate';

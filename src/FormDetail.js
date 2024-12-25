@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Validate from './Validate';
 
 const FormDetail = () => {
